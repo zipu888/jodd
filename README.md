@@ -6,7 +6,7 @@ Jodd
 Official web site: http://jodd.org/
 
 Invitation web site: http://joddframework.org
-
+这个工程是用来学习jodd的，fork自joddframework.org
 
 ## Jodd Modules
 
